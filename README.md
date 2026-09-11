@@ -16,3 +16,8 @@ You arrived at the mansion just before midnight. The iron gates were hanging ope
 As you approached the front door, you noticed something strange. A faint light was coming from somewhere behind the mansion.
 
 You now have to decide what to do next.
+
+
+## What will you do?
+
+1. [Enter the mansion through the front door.](front-door.md)
