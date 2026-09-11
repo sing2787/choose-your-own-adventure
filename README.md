@@ -21,3 +21,5 @@ You now have to decide what to do next.
 ## What will you do?
 
 1. [Enter the mansion through the front door.](front-door.md)
+
+2. [Investigate the strange light behind the mansion.](garden.md)
